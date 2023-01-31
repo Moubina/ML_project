@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/a039892/OneDrive%20-%20Alliance/Bureau/MLproject/mlruns/0/1b1fd101b89e49cea5f64f2ef46e2e9c/artifacts
+end_time: 1675119694737
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b1fd101b89e49cea5f64f2ef46e2e9c
+run_name: selective-squid-397
+run_uuid: 1b1fd101b89e49cea5f64f2ef46e2e9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675119690831
+status: 3
+tags: []
+user_id: a039892

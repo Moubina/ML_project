@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/a039892/OneDrive%20-%20Alliance/Bureau/MLproject/mlruns/0/fbf49e188af1451b97eee8178353ba38/artifacts
+end_time: 1675118591838
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fbf49e188af1451b97eee8178353ba38
+run_name: melodic-steed-729
+run_uuid: fbf49e188af1451b97eee8178353ba38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675118587564
+status: 3
+tags: []
+user_id: a039892
